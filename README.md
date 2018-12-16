@@ -1,0 +1,2 @@
+# magnify
+基于html2canvas的可对静止网页实现放大镜效果的插件
